@@ -1,11 +1,15 @@
 # MODUL7PHP
 
 QUESTIONS   :
+
+1. Berikan contoh kode keneksi untuk ke database pd php?
 2. Bagaimana cara anda membuat database pada phpMySQl!
 3. Berikan code query untuk menampilkan sebuah data yang ada pada ke database?
 4. Berikan code query untuk mengupdate sebuah data yang ada pada ke database?
 5. Berikan code query untuk menghapus sebuah data yang ada pada ke database?
+
 ANSWER      :
+
 1.  ![ALT EXT](https://github.com/farrelreginaldo/MODUL7PHP/blob/master/kk.png?raw=true)
 2.  1.  Buka PHPMyadmin dengan mengetikkan 'localhost/PHPMyadmin/'
     2.  Klik New
